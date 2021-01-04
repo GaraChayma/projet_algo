@@ -6,3 +6,5 @@
 - requests==2.25.0
 - urllib3==1.26.2
 - yarg==0.1.9
+matplotlib == 3.2.2
+~umpy == 1.18.5
